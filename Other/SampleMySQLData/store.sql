@@ -35,7 +35,7 @@ INSERT INTO `customers` (`id`, `name`, `address`, `city`, `state`, `zip`) VALUES
 (14, 'Jeremy White', '3954 Brentwood Dr', 'Seattle', 'WA', 99037),
 (15, 'Omar Badshah', '6801 Regina Cir', 'Madison', 'WI', 53209),
 (16, 'Preston Harrison', '104 Main St', 'Denver', 'CO', 81712),
-(17, 'Manuel Rodriguez', '99543 Westin Blvd', 'Provo', 'UT', 85478),
+(17, 'Manuel Rodriguez', '99543 Westin Blvd', 'Provo', 'UT', 85479),
 (18, 'David Jones', '5488 W 34th St', 'Boston', 'MA', 2104),
 (19, 'Nick Flanders', '3486 Happy Trails Dr', 'Springfield', 'OH', 45872),
 (20, 'Paul Brown', '3290 Pennsylvania Ave', 'Chicago', 'IL', 61208),
